@@ -1,0 +1,8 @@
+# RUST stuff
+target
+
+# PyCharm Stuff
+.idea
+
+# Enviroment Variables
+.env
